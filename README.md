@@ -49,21 +49,50 @@ Google PageSpeed Insights • GTmetrix • Cloudflare • LiteSpeed Cache
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### Hupik.com
+Please see my live portfolio below and the most recent website I have done for my Upwork client.
+General portfolio: https://www.behance.net/rajudey123
 
-Redesigned and developed the entire website using WordPress and Elementor.
+Here are some of the recent GoHighLevel websites I have done:
+https://cashflowscpa.com/
+https://www.constructionpurchaseloans.com/
+https://www.agentfeesavings.com/
+https://www.agentfeediscount.com/
+https://www.columbiamasterservices.com
+https://alexander1111.com/
+https://massage-essence.com/
+https://www.redfitnesslounge.com/
+https://www.jhoustonproperties.com/
+https://everguardadvisors.com
 
-Key Results:
-
-* Google PageSpeed Score 95+
-* Mobile Responsive Design
-* SEO-Friendly Structure
-* Easy Content Management
-* Improved User Experience
-
-Website: https://hupik.com
+Here are some of the recent WordPress websites I have done:
+https://hupik.com/
+https://www.mrjunk.org/
+https://flickmaps.com
+https://hotkup.com/
+https://impactlabourlaw.com/
+https://swaneconstructions.com/
+https://bookura.io/
+https://detaildirect.io/
+https://argansports.com/
+https://tylersystems.com/
+https://intraarctic.com/
+http://srcreativedesigns.com/atlantixmedia/
+https://salesabbot.com
+https://monklytech.com
+https://hpdviolations.com/
+https://equippedshow.com/
+https://vistaza.com/
+https://africaenergyindaba.com/
+https://canarycure.com/
+https://thyleads.com/
+https://procmyloan.com/
+https://tigpindia.com/
+https://www.akshataprabhu.com/
+https://www.alencooper.com/
+https://www.nordicfabric.com/
+http://thecanopy-co-uk.stackstaging.com/
 
 ---
 
