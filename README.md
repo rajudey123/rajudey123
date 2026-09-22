@@ -35,7 +35,7 @@ I help businesses, agencies, and entrepreneurs build fast, modern, and conversio
 ✅ Elementor Pro Websites
 ✅ WooCommerce Stores
 ✅ Website Redesign
-✅ Speed Optimization
+✅ Speed Optimisation
 ✅ Ongoing Maintenance
 
 ---
