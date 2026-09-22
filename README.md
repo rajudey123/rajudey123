@@ -79,10 +79,11 @@ Website: https://hupik.com
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: [https://hupik.com](https://www.behance.net/rajudey123)
-🚀 Upwork: [[https://hupik.com](https://www.behance.net/rajudey123)  ](https://www.upwork.com/freelancers/rajudey123)
+🌐 Portfolio: [Portfolios & Milestone @behance.net ](https://www.behance.net/rajudey123)
 
-💼 LinkedIn: [https://linkedin.com/in/raju-dey-b9a13839](https://www.linkedin.com/in/raju-dey-upwork/?isSelfProfile=true)
+🚀 Upwork:  [Hire me @Upwork](https://www.upwork.com/freelancers/rajudey123)
+
+💼 LinkedIn: [Business colab @LinkedIn](https://www.linkedin.com/in/raju-dey-upwork/?isSelfProfile=true)
 
 📧 Contact: [your-rajudey123@gmail.com](mailto:rajudey123@gmail.com)
 
