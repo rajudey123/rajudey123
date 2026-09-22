@@ -89,14 +89,6 @@ Website: https://hupik.com
 
 ⭐ Thanks for visiting my GitHub profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor)
-
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
