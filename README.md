@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi, I'm Raju Dey 👋
 
-<!--
-**rajudey123/rajudey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WordPress Developer | Elementor Expert | WooCommerce Specialist
 
-Here are some ideas to get you started:
+I help businesses, agencies, and entrepreneurs build fast, modern, and conversion-focused WordPress websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ 200+ Website Projects Delivered
+
+✅ 10+ Years of Web Design & Development Experience
+
+✅ WordPress, Elementor, WooCommerce & ACF Expert
+
+✅ Performance Optimization & Core Web Vitals Specialist
+
+---
+
+## 🚀 Services
+
+* WordPress Website Development
+* Elementor Pro Website Design
+* WooCommerce Store Development
+* Figma to WordPress Conversion
+* Website Redesign & Modernization
+* Landing Page Design
+* Speed Optimization
+* Core Web Vitals Improvements
+* Website Maintenance & Support
+* WordPress Migration
+
+---
+
+## 🛠️ Tech Stack
+
+### CMS & Builders
+
+WordPress • Elementor • Elementor Pro • WooCommerce • ACF • Crocoblock • JetEngine
+
+### Design
+
+Figma • Adobe XD • Photoshop • Illustrator
+
+### Development
+
+HTML5 • CSS3 • JavaScript • PHP • MySQL
+
+### Performance
+
+Google PageSpeed Insights • GTmetrix • Cloudflare • LiteSpeed Cache
+
+---
+
+## 🌟 Featured Project
+
+### Hupik.com
+
+Redesigned and developed the entire website using WordPress and Elementor.
+
+Key Results:
+
+* Google PageSpeed Score 95+
+* Mobile Responsive Design
+* SEO-Friendly Structure
+* Easy Content Management
+* Improved User Experience
+
+Website: https://hupik.com
+
+---
+
+## 📈 What I Focus On
+
+* High-Converting Business Websites
+* Agency White-Label Development
+* Performance Optimization
+* SEO-Friendly WordPress Solutions
+* Long-Term Website Support
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: [https://hupik.com](https://www.behance.net/rajudey123)
+🚀 Upwork: [[https://hupik.com](https://www.behance.net/rajudey123)  ](https://www.upwork.com/freelancers/rajudey123)
+
+💼 LinkedIn: [https://linkedin.com/in/raju-dey-b9a13839](https://www.linkedin.com/in/raju-dey-upwork/?isSelfProfile=true)
+
+📧 Contact: [your-rajudey123@gmail.com](mailto:rajudey123@gmail.com)
+
+⭐ Thanks for visiting my GitHub profile!
