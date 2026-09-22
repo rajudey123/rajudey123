@@ -2,7 +2,7 @@
 
 ## WordPress Developer | Elementor Expert | WooCommerce Specialist | ACF & Crocoblock Developer | Core Web Vitals & Speed Optimization Expert
 
-I help businesses, agencies, and entrepreneurs build fast, modern, and conversion-focused WordPress websites.
+I help businesses and agencies build fast, SEO-friendly, conversion-focused WordPress websites with Elementor, WooCommerce, ACF, and modern performance optimisation techniques.
 
 ✅ 200+ Website Projects Delivered
 
