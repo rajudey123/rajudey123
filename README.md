@@ -85,6 +85,6 @@ Website: https://hupik.com
 
 💼 LinkedIn: [Business colab @LinkedIn](https://www.linkedin.com/in/raju-dey-upwork/?isSelfProfile=true)
 
-📧 Contact: [your-rajudey123@gmail.com](mailto:rajudey123@gmail.com)
+📧 Contact: [Book a call](mailto:rajudey123@gmail.com)
 
 ⭐ Thanks for visiting my GitHub profile!
