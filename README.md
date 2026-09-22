@@ -1,6 +1,6 @@
 # Hi, I'm Raju Dey 👋
 
-## WordPress Developer | Elementor Expert | WooCommerce Specialist
+## WordPress Developer | Elementor Expert | WooCommerce Specialist | ACF & Crocoblock Developer | Core Web Vitals & Speed Optimization Expert
 
 I help businesses, agencies, and entrepreneurs build fast, modern, and conversion-focused WordPress websites.
 
@@ -26,6 +26,17 @@ I help businesses, agencies, and entrepreneurs build fast, modern, and conversio
 * Core Web Vitals Improvements
 * Website Maintenance & Support
 * WordPress Migration
+
+---
+
+## 💼 Available For
+
+✅ WordPress Development
+✅ Elementor Pro Websites
+✅ WooCommerce Stores
+✅ Website Redesign
+✅ Speed Optimization
+✅ Ongoing Maintenance
 
 ---
 
@@ -118,6 +129,71 @@ http://thecanopy-co-uk.stackstaging.com/
 
 ⭐ Thanks for visiting my GitHub profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajudey123&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajudey123&layout=compact)
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+#WordPressDeveloper
+#ElementorExpert
+#ElementorPro
+#WordPressDesigner
+#WordPressWebsiteDesign
+#CustomWordPressDevelopment
+#WordPressDevelopment
+#WooCommerceDeveloper
+#WooCommerceExpert
+#FigmaToWordPress
+#WebsiteRedesign
+#LandingPageDesign
+#ResponsiveWebDesign
+#BusinessWebsiteDevelopment
+#EcommerceWebsiteDevelopment
+#ACFDeveloper
+#Crocoblock
+#JetEngine
+#WordPressMigration
+#WordPressMaintenance
+#WordPressSupport
+#SpeedOptimization
+#CoreWebVitals
+#GooglePageSpeed
+#PageSpeedOptimization
+#TechnicalSEO
+#SEOFriendlyWebsites
+#PerformanceOptimization
+#PHPDeveloper
+#HTML5
+#CSS3
+#JavaScript
+#WebDesign
+#WebDevelopment
+#UIUXDesign
+#AgencyPartner
+#WhiteLabelWordPress
+#ConversionFocusedDesign
+#LeadGenerationWebsites
+#SmallBusinessWebsites
+#LocalBusinessWebsites
+#WordPressConsultant
+#WordPressDeveloper
+#ElementorExpert
+#WooCommerceDeveloper
+#FigmaToWordPress
+#CustomWordPressDevelopment
+#WebsiteRedesign
+#LandingPageDesign
+#SpeedOptimization
+#CoreWebVitals
+#GooglePageSpeed
+#TechnicalSEO
+#ACFDeveloper
+#Crocoblock
+#JetEngine
+#WhiteLabelWordPress
+#AgencyPartner
+#WordPressConsultant
+#ConversionFocusedDesign
+#LeadGenerationWebsites
+#BusinessWebsiteDevelopment
